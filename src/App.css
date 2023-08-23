@@ -1,0 +1,13 @@
+*{
+    background-image: url(https://thumbs.dreamstime.com/b/cricket-pitch-sport-grass-field-empty-background-cricket-pitch-sport-grass-field-empty-background-146687259.jpg);
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.scoreboard{
+    height: 25%;
+    color: rgb(17, 16, 19);
+    
+    border: 8px solid rgb(126, 253, 87);
+    fill-opacity: .5;
+}
